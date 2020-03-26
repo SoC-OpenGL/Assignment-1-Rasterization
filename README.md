@@ -9,10 +9,10 @@
 	<li> Go through texturing code of Prof. Parag Chaudhari <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/lectures/15_texture.pdf"> here </a>. Also read throught the corresponding code in CS475 tutorials, and <a href="https://www.learnopengl.com/Getting-started/Textures"> learnopengl.com </a>
 	<li> Go through problem 3 of the assignment pdf
 </ol>
-#### Assignment instructions:
+<h4> Assignment instructions: </h4>
 <li>
 	<li> Accept the <a href="https://classroom.github.com/a/F0jQQ8fj">invitation</a> to the assignment repository
-	<li> Clone the repo in your machine by using command "git clone (repo link)
+	<li> Clone the repo in your machine by using command "git clone (repo link)"
 	<li> Push all changes to your copy of the assignment repo
 	<li> <b> The deadline is 11:55 PM, Monday 30 March, 2020 </b>
 	<li> Put all code in the sub-directory OpenGL-code
