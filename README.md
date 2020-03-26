@@ -6,7 +6,7 @@
 	<li> Go through problem 1 of the assignment pdf </li>
 	<li> Read the rasterization slides of Prof. Parag Chaudhuri <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2018/cs475/lectures/01_raster_basics.pdf"> here</a>. Also check <a href="https://www.khronos.org/opengl/wiki/Rasterization">this</a></li>
 	<li> Go through problem 2 of the assignment pdf </li>
-	<li> Go through texturing code of Prof. Parag Chaudhari <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/lectures/15_texture.pdf"> here </a>. Also read throught the corresponding code in CS475 tutorials, and <a href="learnopengl.com"> learnopengl.com </a>
+	<li> Go through texturing code of Prof. Parag Chaudhari <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/lectures/15_texture.pdf"> here </a>. Also read throught the corresponding code in CS475 tutorials, and <a href="https://www.learnopengl.com/Getting-started/Textures"> learnopengl.com </a>
 	<li> Go through problem 3 of the assignment pdf
 </ol>
 
