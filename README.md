@@ -7,3 +7,5 @@
 	<li> Read the rasterization slides of Prof. Parag Chaudhuri <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2018/cs475/lectures/01_raster_basics.pdf"> here</a>. Also check <a href="https://www.khronos.org/opengl/wiki/Rasterization">this</a></li>
 	<li> Go through problem 2 of the assignment pdf </li>
 </ol>
+
+## Note: We have not provided any boilerplate code as of now so that you can understand how each piece of OpenGL works, and figure out design choices for yourself. If you need boilerplate code please inform us
