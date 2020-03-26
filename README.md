@@ -10,7 +10,7 @@
 	<li> Go through problem 3 of the assignment pdf
 </ol>
 <h4> Assignment instructions: </h4>
-<li>
+<ol>
 	<li> Accept the <a href="https://classroom.github.com/a/F0jQQ8fj">invitation</a> to the assignment repository
 	<li> Clone the repo in your machine by using command "git clone (repo link)"
 	<li> Push all changes to your copy of the assignment repo
